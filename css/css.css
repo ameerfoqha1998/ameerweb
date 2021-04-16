@@ -1,0 +1,53 @@
+
+
+
+.navbar{
+    height: 70px;;
+    border-radius: 0px;
+    margin-bottom :0px;
+    padding-top: 10px;
+
+}
+.btn{
+    height: 50px;
+}
+.btn-group-justified>.btn-group .btn{
+    width: 24%;
+    margin-left: 10px;
+    height: 200px;
+    margin-top: 30px;
+    font-size: 30px;
+    
+}
+.fon{
+    font-size: 19px;
+    color: rgb(179, 179, 179);
+}
+.s{
+    font-size: 40px;
+}
+.futchers{
+    margin: 30px;
+}
+.a{
+padding-top: 5px;
+   border: solid rgb(68, 108, 240) 1px;
+} 
+.b{
+    background-color: rgb(230, 230, 230);
+}
+.f{
+    padding-right: 100px;
+}
+
+.m{
+    padding-top: 10px;
+    background-color: rgb(209, 209, 226);
+}
+.n{
+    color: rgb(129, 129, 255);
+}
+.marg{
+
+    margin-top: 100px;
+}
